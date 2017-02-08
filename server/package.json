@@ -1,5 +1,4 @@
 {
-
   "name": "twatt-new",
   "version": "0.0.0",
   "private": true,
@@ -8,16 +7,16 @@
     "dev": "nodemon ./bin/www"
   },
   "dependencies": {
-  "body-parser": "~1.15.2",
-  "cookie-parser": "~1.4.3",
-  "cors": "^2.8.1",
-  "debug": "~2.2.0",
-  "ejs": "~2.5.2",
-  "express": "~4.14.0",
-  "morgan": "~1.7.0",
-  "nodemon": "^1.11.0",
-  "serve-favicon": "~2.3.0",
-  "twitter": "^1.7.0",
-  "twitter-oauth": "0.0.6"
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.1",
+    "debug": "~2.2.0",
+    "ejs": "~2.5.2",
+    "express": "~4.14.0",
+    "morgan": "~1.7.0",
+    "nodemon": "^1.11.0",
+    "serve-favicon": "~2.3.0",
+    "twitter": "^1.7.0",
+    "twitter-oauth": "0.0.6"
   }
 }
